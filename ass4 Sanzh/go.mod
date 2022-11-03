@@ -1,4 +1,4 @@
-module snippetbox.KazbekTutinbay.net
+module snippetbox.Sanzh.net
 
 go 1.19
 
