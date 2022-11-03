@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"snippetbox.KazbekTutinbay.net/internal/models"
-	"snippetbox.KazbekTutinbay.net/internal/validator"
+	"snippetbox.Sanzh.net/internal/models"
+	"snippetbox.Sanzh.net/internal/validator"
 )
 
 type snippetCreateForm struct {
